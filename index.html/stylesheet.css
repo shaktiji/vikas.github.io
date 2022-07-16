@@ -1,0 +1,28 @@
+
+body{
+    background-color: lightblue;
+}
+*{ 
+    margin: 3;
+}
+    
+#head{
+background-color: rgb(141, 2, 255);
+color:white;
+}
+
+.container{
+    width: 334px;
+    height: 400;
+   background-image: url('IIT-Bombay.png');
+   background-size:cover;
+   border: solid blue;
+    
+  
+}
+
+.red{
+    background-color: teal;
+    color: blue;
+}
+  
